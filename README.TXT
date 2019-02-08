@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Recreation of the classic Shut the Box game.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Shut the Box
+PURPOSE OF PROJECT: For fun and to practice my skills.
+VERSION or DATE: Fall 2018
+HOW TO START THIS PROJECT: Run the main method
+AUTHORS: Patrick Barber
+USER INSTRUCTIONS: Follow the instructions on screen to play.
